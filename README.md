@@ -82,15 +82,13 @@ Simulated IoT sensor dataset with:
 
 ### Temperature Trend
 
-![Temperature](images/temperature.png)
+![Temperature](outputs/graphs/temperature.png)
 
 ### Vibration Trend
-
-![Vibration](images/vibration.png)
+![Vibration](outputs/graphs/vibration.png)
 
 ### Current Trend
-
-![Current](images/current.png)
+![Current](outputs/graphs/current.png)
 
 ---
 
